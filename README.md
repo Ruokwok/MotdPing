@@ -1,0 +1,2 @@
+# MotdPing
+像ping一样获取Minecraft服务器的MOTD信息
